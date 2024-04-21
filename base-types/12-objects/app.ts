@@ -12,5 +12,3 @@ const user = {
         devops: true
     }
 }
-
-console.log(getUser(user));

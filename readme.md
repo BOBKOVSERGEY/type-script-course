@@ -10,5 +10,5 @@ tsc
 # ts config
 noImplicitAny": true
 
-
-017 Enums
+Основные типы
+018 Упражнение - Типизируем функцию

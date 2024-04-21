@@ -4,5 +4,4 @@ let bonus: number = 500;
 let c: string = 'lorem';
 let d: boolean = true;
 
-let res: number = revenue + bonus;
-console.log(res);
+let res:number = revenue + bonus;
