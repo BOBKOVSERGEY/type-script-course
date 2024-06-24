@@ -4,7 +4,7 @@ enum QuestionStatus {
     Deleted = 'deleted',
 }
 
-async function getFaqs(req: {
+/*async function getFaqs(req: {
     topicId: number,
     status?: QuestionStatus
 }): Promise<{
@@ -20,4 +20,4 @@ async function getFaqs(req: {
     });
     const data = await res.json();
     return data;
-}
+}*/
