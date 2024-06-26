@@ -1,3 +1,4 @@
+"use strict";
 /*function logId(id: string | number | boolean) {
     if (typeof id === 'string') {
         console.log(id)
@@ -28,4 +29,4 @@ function logObject(obj: { a: number } | { b: number }) {
 
 function logMultipleIds(a: string | number, b: string | boolean) {
 
-}*/
+}*/ 

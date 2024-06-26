@@ -6,4 +6,4 @@ enum RequestType {
 
 }*/
 
-fetchWithAuth('w', 'post')
+//fetchWithAuth('w', 'post')

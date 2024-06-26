@@ -1,3 +1,4 @@
+"use strict";
 /*type User = {
     id: number
     name: string;
@@ -32,4 +33,4 @@ let user1: UserWithRole = {
         id: 1,
         name: 'admin'
     }
-}*/
+}*/ 

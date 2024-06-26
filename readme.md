@@ -11,4 +11,7 @@ tsc
 noImplicitAny": true
 
 Продвинутые типы
-026 Упражнение - Типизируем ответ сервера
+033 Упражнение - Делаем typeguard ответа
+
+# init property in classes with help constructor
+"strictPropertyInitialization": false,

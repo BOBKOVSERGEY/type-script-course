@@ -2,7 +2,7 @@
 function getUser(userEntity: {firstname: string, surname: string} ): string {
     return `${userEntity.firstname} ${userEntity.surname}`
 }
-const user = {
+/*const user = {
     firstname: 'Anton',
     surname: 'Larichev',
     city: 'Moscow',
@@ -11,4 +11,4 @@ const user = {
         dev: true,
         devops: true
     }
-}
+}*/
