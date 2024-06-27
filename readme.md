@@ -10,8 +10,7 @@ tsc
 # ts config
 noImplicitAny": true
 
-Продвинутые типы
-033 Упражнение - Делаем typeguard ответа
+041 Extends
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,

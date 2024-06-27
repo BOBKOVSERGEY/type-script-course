@@ -1,7 +1,12 @@
 "use strict";
-class User {
-    constructor(name) {
-        this.name = name;
+/*class User {
+    name: string;
+    constructor(name: string) {
+        this.name = name
     }
 }
+
 const user = new User('John');
+
+
+*/

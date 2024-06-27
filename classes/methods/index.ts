@@ -1,4 +1,4 @@
-enum PaymentStatus {
+/*enum PaymentStatus {
     Reserved,
     Processed,
     Reversed
@@ -31,4 +31,4 @@ payment.unReservePayment()
 console.log(payment)
 const time = payment.getPaymentLifeTime()
 
-console.log(time)
+console.log(time)*/

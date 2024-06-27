@@ -1,3 +1,4 @@
+"use strict";
 /*class User {
     skills: string[];
 
@@ -11,4 +12,4 @@
         }
     }
 }
-*/
+*/ 
