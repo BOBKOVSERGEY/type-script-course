@@ -1,4 +1,4 @@
-const numbers: Array<number> = [1,2,3];
+/*const numbers: Array<number> = [1,2,3];
 
 async function test(): Promise<void> {
     const a = await new Promise<number>((resolve, reject) => {
@@ -10,3 +10,4 @@ const check: Record<string, boolean> = {
     drive: true,
     kpp: false
 }
+*/
