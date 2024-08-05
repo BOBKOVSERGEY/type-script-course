@@ -10,7 +10,9 @@ tsc
 # ts config
 noImplicitAny": true
 
-041 Extends
+049 Абстрактные классы
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,
+# compile file
+tsc app.ts app2.ts
