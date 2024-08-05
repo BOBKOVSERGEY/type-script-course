@@ -1,3 +1,4 @@
+"use strict";
 /*function logMiddleware<T>(data: T): T {
     console.log(data);
     return data
@@ -10,4 +11,4 @@ function getSplitHalf<T>(data: Array<T>): Array<T> {
     return data.splice(0, length)
 }
 
-getSplitHalf<number>([1,4,5])*/
+getSplitHalf<number>([1,4,5])*/ 
