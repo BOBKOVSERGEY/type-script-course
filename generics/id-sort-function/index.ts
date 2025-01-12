@@ -1,4 +1,4 @@
-const data = [
+/*const data = [
     {
         id: 1,
         name: 'Vasa'
@@ -29,4 +29,4 @@ function sort<T extends ID>(data: T[], type: 'asc' | 'desc' = 'asc'): T[] {
 }
 
 console.log(sort(data, 'desc'))
-console.log(sort(data))
+console.log(sort(data))*/
