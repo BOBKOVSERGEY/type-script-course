@@ -10,7 +10,7 @@ tsc
 # ts config
 noImplicitAny": true
 
-049 Абстрактные классы
+064 Упражнение - Функция сортировки id
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,
