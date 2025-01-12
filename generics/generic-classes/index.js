@@ -1,19 +1,21 @@
 "use strict";
 // у класса могут быть данные не понятного типа и ошибки непонятного типа
-class Resp {
-    constructor(data, error) {
+/*class Resp<D, E> {
+    data?: D
+    error?: E
+
+    constructor(data?: D, error?: E) {
         if (data) {
-            this.data = data;
+            this.data = data
         }
         if (error) {
-            this.error = error;
+            this.error = error
         }
     }
 }
-const res = new Resp('data', 0);
-class HTTPResp extends Resp {
-    constructor() {
-        super(...arguments);
-        this.status = 200;
-    }
-}
+
+const res = new Resp<string, number>('data', 0)
+
+class HTTPResp<F> extends Resp<string, number> {
+    status: number = 200
+}*/ 

@@ -1,6 +1,6 @@
 // позволяет вытащить ключи из объекта или интерфейса
 
-interface IUser {
+/*interface IUser {
     name: string
     age: number
 }
@@ -20,5 +20,5 @@ const user: IUser = {
 
 const userName = getValue(user, 'name')
 
-console.log(userName)
+console.log(userName)*/
 

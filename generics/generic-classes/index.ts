@@ -1,5 +1,5 @@
 // у класса могут быть данные не понятного типа и ошибки непонятного типа
-class Resp<D, E> {
+/*class Resp<D, E> {
     data?: D
     error?: E
 
@@ -17,4 +17,4 @@ const res = new Resp<string, number>('data', 0)
 
 class HTTPResp<F> extends Resp<string, number> {
     status: number = 200
-}
+}*/
