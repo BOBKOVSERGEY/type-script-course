@@ -10,9 +10,12 @@ tsc
 # ts config
 noImplicitAny": true
 
-064 Упражнение - Функция сортировки id
+08 Манипуляция с типами
+ - 071 Indexed Access Types
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,
 # compile file
 tsc app.ts app2.ts
+
+2 
