@@ -1,3 +1,4 @@
+"use strict";
 /*let strOrNum: string | number = 5
 
 if (Math.random() > 0.5) {
@@ -20,4 +21,4 @@ const user = {
     age: 25
 }
 
-type keyOfUser = keyof typeof user*/
+type keyOfUser = keyof typeof user*/ 
