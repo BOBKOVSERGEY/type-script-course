@@ -1,4 +1,4 @@
-class UserService {
+/*class UserService {
     static db: any;
 
     static getUser(id: number) {
@@ -6,5 +6,5 @@ class UserService {
     }
 }
 
-UserService.getUser(1)
+UserService.getUser(1)*/
 
