@@ -1,4 +1,4 @@
-interface IUserService {
+/*interface IUserService {
     users: number
     getUserInDatabase(): number
 }
@@ -40,4 +40,4 @@ function threeUserAdvanced<T extends { new(...args: any[]): {}}>(constructor: T)
 }
 
 
-console.log(new UserService().getUserInDatabase());
+console.log(new UserService().getUserInDatabase());*/
