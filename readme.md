@@ -11,7 +11,7 @@ tsc
 noImplicitAny": true
 
 10 Декораторы
-083 Паттерн декоратора
+088 Упражнение - Декоратор перехвата ошибок
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,

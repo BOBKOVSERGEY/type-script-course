@@ -1,4 +1,4 @@
-interface IUserService {
+/*interface IUserService {
     users: number
     getUserInDatabase(): number
 }
@@ -30,4 +30,4 @@ function Log(
 }
 
 
-console.log(new UserService().getUserInDatabase());
+console.log(new UserService().getUserInDatabase());*/
