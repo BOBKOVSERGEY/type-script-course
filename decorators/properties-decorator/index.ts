@@ -1,4 +1,4 @@
-interface IUserService {
+/* interface IUserService {
     users: number
     getUserInDatabase(): number
 }
@@ -47,4 +47,4 @@ console.log(userService.users)
 
 userService.users = 101
 
-console.log(userService.users)
+console.log(userService.users) */

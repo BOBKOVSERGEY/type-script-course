@@ -11,7 +11,7 @@ tsc
 noImplicitAny": true
 
 10 Декораторы
-088 Упражнение - Декоратор перехвата ошибок
+090 Декоратор accessor
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,
