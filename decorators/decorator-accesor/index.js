@@ -1,3 +1,4 @@
+"use strict";
 /*interface IUserService {
     users: number
     getUserInDatabase(): number

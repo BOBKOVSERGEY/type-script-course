@@ -1,7 +1,10 @@
 "use strict";
-class UserService {
-    static getUser(id) {
-        return UserService.db.find((user) => user.id === id);
+/*class UserService {
+    static db: any;
+
+    static getUser(id: number) {
+        return UserService.db.find((user: any) => user.id === id);
     }
 }
-UserService.getUser(1);
+
+UserService.getUser(1)*/

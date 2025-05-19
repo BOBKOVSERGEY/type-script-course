@@ -10,8 +10,7 @@ tsc
 # ts config
 noImplicitAny": true
 
-10 Декораторы
-090 Декоратор accessor
+12 Порождающие паттерны
 
 # init property in classes with help constructor
 "strictPropertyInitialization": false,

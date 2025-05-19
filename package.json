@@ -1,0 +1,22 @@
+{
+  "name": "5-typescript-demo-1",
+  "version": "1.0.0",
+  "description": "npm i -g typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOBKOVSERGEY/type-script-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOBKOVSERGEY/type-script-course/issues"
+  },
+  "homepage": "https://github.com/BOBKOVSERGEY/type-script-course#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
